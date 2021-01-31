@@ -168,6 +168,11 @@ export default {
           frameworks: ["Vue.js", "html", "css", "javascript", "AWS"],
           links: [
             {
+              icon: "link",
+              src:
+                "https://github.com/hanachiru/SimplifiedPortfolio",
+            },
+            {
               icon: "sticky-note",
               src:
                 "https://www.hanachiru-blog.com/entry/2021/01/28/120000",
